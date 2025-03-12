@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rFTRXm9f0zo=",
+  "dgSpecHash": "mcPIIcpFa8k=",
   "success": true,
   "projectFilePath": "/Users/crimiro/Projects/Personal/APIRestNet/APIRestNet/APIRestNet.csproj",
   "expectedPackageFiles": [
     "/Users/crimiro/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
-    "/Users/crimiro/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+    "/Users/crimiro/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/Users/crimiro/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.3.1/swashbuckle.aspnetcore.swaggerui.7.3.1.nupkg.sha512"
   ],
   "logs": []
 }

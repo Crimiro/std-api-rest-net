@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oRYXviPcVsLf9IJo9k/tSLUqhSNMBxAtCDqF7fE3LBY=",
+  "Source": "APIRestNet",
+  "BasePath": "_content/APIRestNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

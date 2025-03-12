@@ -14,6 +14,7 @@
         "outputPath": "/Users/crimiro/Projects/Personal/APIRestNet/APIRestNet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+          "/Users/crimiro/Projects/Personal/APIRestNet/APIRestNet/NuGet.Config",
           "/Users/crimiro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
@@ -47,6 +48,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.3.1, )"
             }
           },
           "imports": [
